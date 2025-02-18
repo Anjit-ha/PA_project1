@@ -35,7 +35,9 @@ Assessing the impact of feature selection and outlier removal on model accuracy 
 
 # Files included
 cars.csv – The dataset containing car specifications.
+
 PA_Project1.ipynb – Jupyter Notebook with full preprocessing, feature selection, model training, and evaluation.
+
 README.md – This file containing the project documentation.
 
 # Conclusion
